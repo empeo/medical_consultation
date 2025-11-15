@@ -226,6 +226,5 @@ Distributed under the MIT License.
 ---
 
 ## ✨ المطور  
-**Your Name**  
 GitHub: https://github.com/empeo
 
